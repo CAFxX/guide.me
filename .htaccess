@@ -1,0 +1,4 @@
+DirectoryIndex guide.me.htm
+
+RewriteEngine On
+RewriteRule \.git - [F,L]
