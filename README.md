@@ -1,5 +1,5 @@
-* guide.me
+# guide.me
 HTML5 guide designer for iconographic composition
 
-** Compatibility
+## Compatibility
 Tested in Firefox 3.6.x
